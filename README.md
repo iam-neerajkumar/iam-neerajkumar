@@ -25,9 +25,9 @@ Let’s connect, learn, and grow together—one repo at a time.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://www.linkedin.com/in/nageshwarneeraj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Instagram](https://www.instagram.com/neerajnageshwar_pal/)  
-[!Facebook](https://www.facebook.com/neeraj.nageshwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nageshwarneeraj)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/neerajnageshwar_pal/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/neeraj.nageshwar)
 
 
 
